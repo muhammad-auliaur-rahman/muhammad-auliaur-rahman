@@ -1,6 +1,6 @@
 ## Hello world! i'm Muhammad Auliaur Rahman 👋
 
-![Muhammad-auliaur-rahman](img/photo_2026-05-25_00-37-28.jpg)
+![Muhammad-auliaur-rahman](img/github-header-banner.png)
 
 <!--
 **muhammad-auliaur-rahman/muhammad-auliaur-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +33,15 @@ Here are some ideas to get you started:
 
 ![https://www.instagram.com/abdurrachman_aulia?igsh=MXJvbmh4eXI4NWlneA%3D%3D&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/muhammad-auliaur-rahman-7052b63bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+#### Play game with Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-auliaur-rahman/muhammad-auliaur-rahman/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammad-auliaur-rahman/muhammad-auliaur-rahman/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammad-auliaur-rahman/muhammad-auliaur-rahman/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/muhammad-auliaur-rahman/muhammad-auliaur-rahman/snake-output/snake.svg" alt="Snake animation" />
