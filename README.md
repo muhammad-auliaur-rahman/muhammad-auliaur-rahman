@@ -1,5 +1,7 @@
 ## Hello world! i'm Muhammad Auliaur Rahman 👋
 
+![Muhammad-auliaur-rahman](img/photo_2026-05-25_00-37-28.jpg)
+
 <!--
 **muhammad-auliaur-rahman/muhammad-auliaur-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
