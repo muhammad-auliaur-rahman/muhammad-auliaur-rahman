@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! i'm Muhammad Auliaur Rahman 👋
 
 <!--
 **muhammad-auliaur-rahman/muhammad-auliaur-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Harisenin.com
+- 🌱 I’m currently learning Full-Stack Developer
