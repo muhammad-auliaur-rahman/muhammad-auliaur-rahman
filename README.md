@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Harisenin.com
 - 🌱 I’m currently learning Full-Stack Developer
-- santri develover web
 
 #### Skill
 
